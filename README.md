@@ -42,3 +42,38 @@ R$ 3.200/noite
 
 E ao lado botão para as reservas.
 
+*Botão de experiências: link que mostra as esperiências servidas pelo hotel.
+Experiências
+
+Uma vida de
+privilégios aguarda:
+No Grand Le Palais, cada detalhe é cuidadosamente orquestrado. Da piscina infinita com vista para a Baía de Guanabara ao spa premiado internacionalmente, proporcionamos experiências que transcendem o ordinário.
+Nossa equipe de 180 profissionais antecipa seus desejos antes mesmo de expressá-los. É este invisível cuidado que torna cada visita singular.
+*101 Anos de história
+*47 Suítes exclusivas
+*98% Taxa de satisfação
+
+Quartos & Suítes
+Restaurante Le Roi
+Bar & Adega
+Spa & Bem-Estar
+Eventos & Casamentos
+
+*Botão de gastronomia: link que direciona para explicações do nosso restaurante e menu.
+Restaurante Le Roi
+
+Premiado com duas estrelas Michelin, o Le Roi apresenta uma cozinha francesa de vanguarda com ingredientes brasileiros de pequenos produtores. O chef Antônio Braga cria menus degustação que são, por si só, uma razão de viagem.
+Ao lado tem o menu para vizualização dos nossos pratos.
+
+*Botão do Spa: mostra serviços oferecidos pelo nosso hotel, como: 
+
+*Massagens Relaxantes e Terapêuticas: Técnicas manuais como drenagem linfática, massagem modeladora, pedras quentes e a candle massage (com óleo aquecido).
+*Hidroterapia: Banhos de imersão relaxantes, spas térmicos e hidromassagem que estimulam o fluxo sanguíneo e aliviam dores musculares.
+*Spa dos Pés: Inclui escalda-pés com ervas ou óleos essenciais e esfoliação, promovendo alívio de tensões e melhora na circulação.
+*Estética e Cuidados FaciaisLimpeza de Pele e Peeling: Tratamentos para renovação celular e limpeza profunda.
+*Massagem Facial e Lifting: Técnicas com foco no rejuvenescimento e na prevenção do envelhecimento da pele.
+*(Day Spa)Programas combinados que podem durar horas ou o dia todo, ideais para presentes ou períodos de renovação. Com opções para Casais: Serviços e instalações projetados para que duas pessoas desfrutem dos tratamentos juntas.Experiências Completas: Alguns pacotes incluem sauna, acesso a áreas de relaxamento, refeições e até hospedagem (turismo de bem-estar).
+
+
+
+
