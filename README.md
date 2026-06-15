@@ -74,6 +74,7 @@ Ao lado tem o menu para vizualização dos nossos pratos.
 *Massagem Facial e Lifting: Técnicas com foco no rejuvenescimento e na prevenção do envelhecimento da pele.
 *(Day Spa)Programas combinados que podem durar horas ou o dia todo, ideais para presentes ou períodos de renovação. Com opções para Casais: Serviços e instalações projetados para que duas pessoas desfrutem dos tratamentos juntas.Experiências Completas: Alguns pacotes incluem sauna, acesso a áreas de relaxamento, refeições e até hospedagem (turismo de bem-estar).
 
+*Botão de conato: direciona para nossos conataos, como: e-mail, número de telefone e como chegar,
 
 
 
